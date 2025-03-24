@@ -10,7 +10,7 @@ spec:
     name: in-cluster
     namespace: testing-dev
   source:
-    path: dev
+    path: dev-app
     repoURL: https://github.com/nharvey-octopus/final-testing.git
     targetRevision: HEAD
   syncPolicy:
